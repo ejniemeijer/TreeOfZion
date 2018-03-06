@@ -3,4 +3,4 @@
 
 // EKN: Add these values to build contact (http://remix.ethereum.org/)
 //"Your ETH Address", "ERC20 tokenAddress", "TokenCreationCap", "Rate", "StartTime in unixtimestamp"
-//"0x2b830933d565A2476eD1a424bdB4f7EE02dC37cc", "0x692a70d2e424a56d2c6c27aa97d1a86395877b3a", "100000000000000000000000000", "5000","1514764800"
+//"0x2b830933d565A2476eD1a424bdB4f7EE02dC37cc", "0x40BFefB5886a301422541A105bF629b128F6015D", "100000000000000000000000000", "5000","1519862400"

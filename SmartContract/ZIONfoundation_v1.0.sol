@@ -257,7 +257,7 @@ contract IcoContract is SafeMath, Pausable {
     tokenAddress = _tokenAddress;             //ERC20 Token address
     tokenCreationCap = _tokenCreationCap;     //"100000000000000000000000000", // 100.000.000 Token
     tokenExchangeRate = _tokenExchangeRate;   //"5000", // Rate: 1 ETH = 5000 Token
-    fundingStartTime = _fundingStartTime;     //"1514764800", // StartTime 01/01/2018 (unixtimestamp.com)
+    fundingStartTime = _fundingStartTime;     //"1519862400", // StartTime 01/03/2018 (unixtimestamp.com)
     ico = IcoToken(tokenAddress);
     isFinalized = false;
 
